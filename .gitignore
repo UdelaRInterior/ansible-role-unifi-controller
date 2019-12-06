@@ -5,3 +5,4 @@ __pycache__/
 Gemfile.lock
 *.retry
 .ropeproject/
+meta/.galaxy_install_info

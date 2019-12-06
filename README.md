@@ -5,6 +5,8 @@
 
 An [ansible role](https://galaxy.ansible.com/nephelaiio/unifi-controller) to install and configure [Ubiquiti Unifi Controller](https://www.ubnt.com/enterprise/software/)
 
+[This fork](https://github.com/UdelaRInterior/ansible-role-unifi-controller) is just a Q&D update to install unifi controller on Debian 10 (buster) using [these community packages](https://community.ui.com/questions/Step-By-Step-Tutorial-Guide-Unifi-Controller-on-Debian-Buster-with-apt-repositories/c3b15e12-41e7-4b13-9e23-f99e403e9463).
+
 ## Role Variables
 
 Please refer to the [defaults file](/defaults/main.yml) for an up to date list of input parameters
